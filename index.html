@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>AI Resume Analyzer - Instant Feedback</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            * { box-sizing: border-box; }
+            body { 
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+                background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+                color: #fff; 
+                min-height: 100vh;
+                margin: 0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            .container { 
+                max-width: 700px; 
+                margin: 40px auto; 
+                padding: 40px;
+                background: rgba(255,255,255,0.05);
+                border-radius: 20px;
+                backdrop-filter: blur(10px);
+                border: 1px solid rgba(255,255,255,0.1);
+            }
+            h1 { color: #00ff88; font-size: 2.5em; margin-bottom: 10px; }
+            .subtitle { color: #aaa; font-size: 1.2em; margin-bottom: 30px; }
+            .price-box {
+                background: linear-gradient(135deg, #00ff88 0%, #00cc6a 100%);
+                color: #000;
+                padding: 30px;
+                border-radius: 15px;
+                text-align: center;
+                margin: 30px 0;
+            }
+            .price { font-size: 3em; font-weight: bold; }
+            .price-note { font-size: 0.9em; opacity: 0.8; }
+            .features { text-align: left; margin: 30px 0; }
+            .features li { margin: 15px 0; font-size: 1.1em; color: #ddd; }
+            .features li:before { content: ">>> "; color: #00ff88; }
+            .cta-btn {
+                display: block;
+                background: #00ff88;
+                color: #000;
+                padding: 20px;
+                font-size: 1.3em;
+                border: none;
+                border-radius: 10px;
+                cursor: pointer;
+                text-decoration: none;
+                text-align: center;
+                font-weight: bold;
+                transition: transform 0.2s, box-shadow 0.2s;
+            }
+            .cta-btn:hover { transform: translateY(-2px); box-shadow: 0 10px 30px rgba(0,255,136,0.3); }
+            .demo { 
+                background: rgba(0,0,0,0.3); 
+                padding: 20px; 
+                border-radius: 10px; 
+                margin: 20px 0;
+                text-align: center;
+            }
+            .demo a { color: #00ff88; text-decoration: none; }
+            .guarantee { color: #888; font-size: 0.9em; margin-top: 20px; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>AI Resume Analyzer</h1>
+            <p class="subtitle">Get instant, actionable feedback on your resume</p>
+            
+            <div class="demo">
+                <p>Try the FREE demo:</p>
+                <a href="https://huggingface.co/spaces/77svene/ai-resume-analyzer">Open Demo Space</a>
+            </div>
+            
+            <div class="features">
+                <h3>What you get with Pro ($5):</h3>
+                <ul>
+                    <li>Unlimited resume analysis</li>
+                    <li>ATS score calculation</li>
+                    <li>Keyword optimization suggestions</li>
+                    <li>Industry-specific recommendations</li>
+                    <li>PDF export of improvements</li>
+                    <li>24/7 priority access</li>
+                </ul>
+            </div>
+            
+            <div class="price-box">
+                <div class="price">$5</div>
+                <div class="price-note">One-time payment. Lifetime access.</div>
+            </div>
+            
+            <a href="https://nowpayments.io/payment/?iid=5075675404" class="cta-btn">
+                Get Pro Access Now
+            </a>
+            
+            <p class="guarantee">30-day money-back guarantee</p>
+        </div>
+    </body>
+    </html>
