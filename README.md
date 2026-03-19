@@ -16,3 +16,6 @@ No more guessing. No more generic applications. Just faster responses and higher
 
 **Try it now:** https://huggingface.co/spaces/77svene/ai-resume-analyzer
 ```
+
+## Free Tier
+5 uses per day free. Upgrade for unlimited via Stripe.
