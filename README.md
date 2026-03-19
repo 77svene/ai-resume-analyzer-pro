@@ -23,3 +23,10 @@ No more guessing. No more generic applications. Just faster responses and higher
 ## Monetization & Free Tier
 - Free: 5 uses/day with clear use case for resume optimization
 - Upgrade for unlimited via Stripe checkout (post-users)
+
+**Use Case:** AI tool for analyzing Ai Resume Analyzer Pro tasks efficiently.
+
+
+### 🚀 Free Tier & Upgrade
+- **Free:** 5 uses/day via GitHub/HF.
+- **Pro:** Unlimited access via Stripe checkout (see [pricing](#)).
