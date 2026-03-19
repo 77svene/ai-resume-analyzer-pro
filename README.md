@@ -30,3 +30,10 @@ No more guessing. No more generic applications. Just faster responses and higher
 ### 🚀 Free Tier & Upgrade
 - **Free:** 5 uses/day via GitHub/HF.
 - **Pro:** Unlimited access via Stripe checkout (see [pricing](#)).
+
+**Use Case:** AI tool for analyzing Ai Resume Analyzer Pro tasks efficiently.
+
+
+### 🚀 Free Tier & Upgrade
+- **Free:** 5 uses/day via GitHub/HF.
+- **Pro:** Unlimited access via Stripe checkout (see [pricing](#)).
