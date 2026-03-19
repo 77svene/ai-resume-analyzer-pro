@@ -1,14 +1,18 @@
 ```markdown
+**Upload your resume + job description → Get AI-powered optimizations to beat ATS and land more interviews.**
+
 # Analyze and optimize your resume in 1 click for better job matches
 
-Stop applying blindly. Get more interviews by tailoring your resume to the exact role you want — in seconds.
+Stop applying blindly and getting ghosted.
 
-Whether you're a recent graduate, career switcher, or experienced professional chasing your next opportunity, our AI instantly compares your resume against a target job description and shows you precisely how to align your experience, keywords, and achievements so recruiters and ATS systems notice you.
+Our AI instantly compares your resume to any target job description and tells you **exactly** what to change — keywords to add, experience to reframe, achievements to highlight — so recruiters and ATS systems actually notice you.
+
+Whether you're a recent graduate struggling to stand out, a career switcher fighting irrelevant experience flags, or an experienced professional aiming for that next-level role, this tool gives you a competitive edge in seconds.
 
 No more guessing. No more generic applications. Just faster responses and higher interview rates.
 
-**Free:** 5 uses per day  
-**Upgrade for unlimited use** via Stripe (one-time payment)
+**✅ Free:** 5 uses per day — no signup required  
+**Upgrade once** for unlimited use via Stripe (one-time payment, no subscription)
 
 **Try it now:** https://huggingface.co/spaces/77svene/ai-resume-analyzer
 ```
