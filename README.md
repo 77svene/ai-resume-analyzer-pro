@@ -19,3 +19,7 @@ No more guessing. No more generic applications. Just faster responses and higher
 
 ## Free Tier
 5 uses per day free. Upgrade for unlimited via Stripe.
+
+## Monetization & Free Tier
+- Free: 5 uses/day with clear use case for resume optimization
+- Upgrade for unlimited via Stripe checkout (post-users)
