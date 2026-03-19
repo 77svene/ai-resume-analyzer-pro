@@ -1,13 +1,14 @@
 ```markdown
-# Get More Interviews: AI Resume Review in 60 Seconds
+# Analyze and optimize your resume in 1 click for better job matches
 
-Turn your resume into an ATS-winning, interview-magnet in under a minute — without guesswork or expensive career coaches.
+Stop applying blindly. Get more interviews by tailoring your resume to the exact role you want — in seconds.
 
-Upload your resume and a target job description. Our AI instantly analyzes both, then delivers a complete optimization plan that shows exactly how to beat applicant tracking systems, match the role’s keywords, and transform generic bullet points into powerful, achievement-focused content that recruiters notice.
+Whether you're a recent graduate, career switcher, or experienced professional chasing your next opportunity, our AI instantly compares your resume against a target job description and shows you precisely how to align your experience, keywords, and achievements so recruiters and ATS systems notice you.
 
-Perfect for job seekers who need to quickly tailor their resume for a specific opportunity and dramatically increase their interview rate.
+No more guessing. No more generic applications. Just faster responses and higher interview rates.
 
-**Try Free Demo:** https://huggingface.co/spaces/77svene/ai-resume-analyzer
+**Free:** 5 uses per day  
+**Upgrade for unlimited use** via Stripe (one-time payment)
 
-**Get Pro Access:** $5 one-time → https://nowpayments.io/payment/?iid=5075675404
+**Try it now:** https://huggingface.co/spaces/77svene/ai-resume-analyzer
 ```
